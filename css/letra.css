@@ -1,0 +1,5 @@
+p.normal {word-spacing: normal;}
+
+p.posit {word-spacing: 8px;}
+
+p.nega {word-spacing: -2px;}
